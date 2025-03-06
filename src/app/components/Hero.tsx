@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="container mx-auto px-6 text-center">
         <div className="relative w-32 h-32 mx-auto mb-8">
           <Image
-            src="/images/avatar.png"
+            src="/avatar.jpg"
             alt="Abednego"
             fill
             className="rounded-full object-cover"
